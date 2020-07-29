@@ -5,4 +5,14 @@ In order to better detect lane lines in complex urban environments, this paper u
 
 
 警告：本人非专业人士，这是为了毕业捣鼓出来的东西，如有错误，请忍着。
+
 Warning：I am not a computer major. There can be a lot of mistakes. Dont contact me in English, my English very vegetable.
+
+![image](https://github.com/Lumozz/UTCN-Lane-detection/blob/master/%E6%89%B9%E6%B3%A8%202020-07-29%20212510.png)
+
+
+![image](https://github.com/Lumozz/UTCN-Lane-detection/blob/master/%E6%89%B9%E6%B3%A8%202020-07-29%20212530.png)
+
+
+![image](https://github.com/Lumozz/UTCN-Lane-detection/blob/master/%E6%89%B9%E6%B3%A8%202020-07-29%20212605.png)
+
